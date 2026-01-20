@@ -59,20 +59,20 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = 'Napoli𝐁𝐨𝐭'
+global.packname = 'NapoliBot'
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = 'Napoli𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = 'NapoliBot-Md'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = 'Napoli𝐁𝐨𝐭-𝐌𝐝'
+global.wm = 'NapoliBot-Md'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
